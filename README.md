@@ -6,9 +6,15 @@
 ## 😄 SNS
 <div align="center">
   <br>
-   <img href="https://www.instagram.com/hyunji_12_3/" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>    
-  <img href="https://velog.io/@hyunji1203" src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/>
-   <img href="https://github.com/hyunji1203" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
+  <a href="https://www.instagram.com/hyunji_12_3/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
+  </a>  
+  <a href="https://velog.io/@hyunji1203/" target="_blank">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/>
+  </a>
+  <a href="https://github.com/hyunji1203" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
+  </a>
 </div>
 <br>
 
