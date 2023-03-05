@@ -1,7 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 ### Android APP Developer 👋
 ___
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunji1203&layout=compact)](https://github.com/hyunji1203/github-readme-stats)
 <!--![hyunji1203's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunji1203&theme=dark&show_icons=true)-->
 
 <!--
