@@ -1,6 +1,7 @@
 ### Android APP Developer 👋
 ___
-* (2023.02.07~ ing) working on woowacourse 5th Android
+* (2019.03 ~ ing) **SEOUL WOMEN'S UNIVERSITY, INFORMATION SECURITY**
+* (2023.02 ~ ing) **WOOWACOURSE 5th Android**
 ___
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunji1203&theme=dark&show_icons=true)
 ___
