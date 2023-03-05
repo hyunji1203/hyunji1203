@@ -1,7 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=welcome&fontSize=90" />
 ### Android APP Developer 👋
 ___
-
+[![Hyunji1203's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=hyunji1203&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 <!--![hyunji1203's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunji1203&theme=dark&show_icons=true)-->
 
 <!--
