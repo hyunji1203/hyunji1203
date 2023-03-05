@@ -19,7 +19,6 @@
 </div>
 <br><br>
 
-___
 
 <!--![My GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunji1203&theme=dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunji1203&layout=compact)](https://github.com/hyunji1203/github-readme-stats)<br>-->
