@@ -1,6 +1,4 @@
-### Android APP Developer 👋
-
-꾸밀 예정....
+<!--### Android APP Developer 👋-->
 <!--![hyunji1203's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunji1203&theme=dark&show_icons=true)-->
 
 <!--
