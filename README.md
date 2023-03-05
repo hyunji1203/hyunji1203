@@ -1,8 +1,6 @@
 ### Android APP Developer 👋
 ___
 
-SNS List
- <a href="https://github.com/hyunji1203" target="_blank"><img src="https://img.shields.io/badge/문자-색코드?style=flat-square&logo=이미지 이름&logoColor=white"/></a>
 <!--![hyunji1203's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunji1203&theme=dark&show_icons=true)-->
 
 <!--
