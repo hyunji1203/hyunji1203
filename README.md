@@ -1,6 +1,8 @@
 ### Android APP Developer 👋
 ___
-[![Hyunji1203's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=hyunji1203&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+SNS List
+ <a href="https://github.com/hyunji1203" target="_blank"><img src="https://img.shields.io/badge/문자-색코드?style=flat-square&logo=이미지 이름&logoColor=white"/></a>
 <!--![hyunji1203's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunji1203&theme=dark&show_icons=true)-->
 
 <!--
