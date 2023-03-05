@@ -1,10 +1,7 @@
 ### Android APP Developer 👋
 ___
-
-<<div align=center>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunji1203&layout=compact)](https://github.com/hyunji1203/github-readme-stats)
-<!--![hyunji1203's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunji1203&theme=dark&show_icons=true)-->
-</div>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunji1203&layout=compact)](https://github.com/hyunji1203/github-readme-stats)<br>
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunji1203&theme=dark&show_icons=true)
 <!--
 **hyunji1203/hyunji1203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
