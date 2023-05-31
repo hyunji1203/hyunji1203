@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/ANDROID-3DDC84?style=flat&logo=Android&logoColor=white"/>
   <img src="https://img.shields.io/badge/KOTLIN-7F52FF?style=flat&logo=Kotlin&logoColor=white"/>   
   <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> -->
   <br>
   <img src="https://img.shields.io/badge/FIREBASE-FFCA28?style=flat&logo=Firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white"/>
