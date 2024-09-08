@@ -23,6 +23,7 @@
   <br>
   <img src="https://img.shields.io/badge/ANDROID-3DDC84?style=flat&logo=Android&logoColor=white"/>
   <img src="https://img.shields.io/badge/KOTLIN-7F52FF?style=flat&logo=Kotlin&logoColor=white"/>   
+  <img src="https://img.shields.io/badge/JAVA-7F52FF?style=flat&logo=Java&logoColor=white"/>   
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
 
   <br>
