@@ -1,6 +1,7 @@
 ## 👋 I'm Android APP Developer 👋
 * (2019.03 ~ 2024.02) **SEOUL WOMEN'S UNIVERSITY, INFORMATION SECURITY**
 * (2023.02 ~ 2023.11) **우아한테크코스 5th Android**
+* (2024.07 ~ ing) **InBody, Android Developer**
 <br>
 
 ## 😄 SNS
